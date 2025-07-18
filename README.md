@@ -65,5 +65,5 @@ Ensure the `athletes.txt` file is located in the same directory as `main.py`.
 
 **Marwa Fekri**  
 Software Engineering Student, Concordia University  
-GitHub: marwaf04
+GitHub: [@Marwaf04](https://github.com/Marwaf04)
 
